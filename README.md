@@ -12,10 +12,11 @@ first commit
 3.  item 3
 
 ### Index 3 test
-* type 1*
 
-** type 2 **
+*type 1*
 
-_ type 3 _
+**type 2**
+
+_type 3_
 
 Test a link [my link] (http://google.com)

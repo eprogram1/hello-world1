@@ -20,3 +20,7 @@ first commit
 _type 3_
 
 Test a link [my link] (http://google.com)
+
+Checking reference input [Google][1] and [Msn][2]
+[1]: http://google.com
+[2]: http://msn.com
